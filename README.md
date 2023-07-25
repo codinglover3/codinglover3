@@ -1,6 +1,15 @@
-# Introduce
-- 👋 Hi, I’m @codinglover3
-- 👀 I’m interested in Web Programming, Python, C, C++ Programming
-- 🌱 I’m currently learning Python, Web Programming
-- 💞️ I’m looking to collaborate on Game made in Unity or PyGame
-- 📫 How to reach me: Email(codinglover3@gmail.com)
+
+.______   ____    ____  __    __   __                   
+|   _  \  \   \  /   / |  |  |  | |  |                  
+|  |_)  |  \   \/   /  |  |  |  | |  |                  
+|   _  <    \_    _/   |  |  |  | |  |                  
+|  |_)  |     |  |     |  `--'  | |  `----.             
+|______/      |__|      \______/  |_______|             
+                                                        
+  _______      ___      .___  ___.  _______     _______.
+ /  _____|    /   \     |   \/   | |   ____|   /       |
+|  |  __     /  ^  \    |  \  /  | |  |__     |   (----`
+|  | |_ |   /  /_\  \   |  |\/|  | |   __|     \   \    
+|  |__| |  /  _____  \  |  |  |  | |  |____.----)   |   
+ \______| /__/     \__\ |__|  |__| |_______|_______/    
+                                                        
